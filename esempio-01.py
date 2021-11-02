@@ -1,9 +1,4 @@
-a = "casa, "
-b = "pappa, "
-c = "scuola, "
-d = "coding, "
-e = "python."
+x = ['casa', 'pappa', 'scuola', 'coding', 'python']
 
-x= a + b + c + d + e
-
-print (x)
+for x in x:
+    print(x)
